@@ -4,24 +4,24 @@
     <!-- Outer hexagon (CAD/engineering shape) -->
     <path d="M 25 2 L 45 14 L 45 38 L 25 50 L 5 38 L 5 14 Z" 
           fill="none" 
-          stroke="#00acc1" 
+          stroke="#0da9c1" 
           stroke-width="3"
           stroke-linejoin="miter"/>
     
     <!-- Inner technical lines -->
-    <line x1="25" y1="2" x2="25" y2="50" stroke="#00acc1" stroke-width="2"/>
-    <line x1="5" y1="14" x2="45" y2="38" stroke="#00acc1" stroke-width="2"/>
-    <line x1="5" y1="38" x2="45" y2="14" stroke="#00acc1" stroke-width="2"/>
+    <line x1="25" y1="2" x2="25" y2="50" stroke="#0da9c1" stroke-width="2"/>
+    <line x1="5" y1="14" x2="45" y2="38" stroke="#0da9c1" stroke-width="2"/>
+    <line x1="5" y1="38" x2="45" y2="14" stroke="#0da9c1" stroke-width="2"/>
     
     <!-- Center point -->
-    <circle cx="25" cy="26" r="4" fill="#00acc1"/>
+    <circle cx="25" cy="26" r="4" fill="#0da9c1"/>
     
     <!-- Corner nodes -->
-    <circle cx="25" cy="2" r="3" fill="#00acc1"/>
-    <circle cx="45" cy="14" r="3" fill="#00acc1"/>
-    <circle cx="45" cy="38" r="3" fill="#00acc1"/>
-    <circle cx="25" cy="50" r="3" fill="#00acc1"/>
-    <circle cx="5" cy="38" r="3" fill="#00acc1"/>
-    <circle cx="5" cy="14" r="3" fill="#00acc1"/>
+    <circle cx="25" cy="2" r="3" fill="#0da9c1"/>
+    <circle cx="45" cy="14" r="3" fill="#0da9c1"/>
+    <circle cx="45" cy="38" r="3" fill="#0da9c1"/>
+    <circle cx="25" cy="50" r="3" fill="#0da9c1"/>
+    <circle cx="5" cy="38" r="3" fill="#0da9c1"/>
+    <circle cx="5" cy="14" r="3" fill="#0da9c1"/>
   </g>
 </svg>

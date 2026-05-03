@@ -1,6 +1,6 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
   <!-- Background circle -->
-  <circle cx="16" cy="16" r="16" fill="#00acc1"/>
+  <circle cx="16" cy="16" r="16" fill="#0da9c1"/>
   
   <!-- Simplified hexagon icon in white -->
   <g transform="translate(8, 8)">
