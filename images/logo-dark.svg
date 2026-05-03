@@ -1,0 +1,48 @@
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="100" fill="transparent"/>
+  
+  <!-- Geometric CAD-inspired icon -->
+  <g transform="translate(20, 20)">
+    <!-- Outer hexagon (CAD/engineering shape) -->
+    <path d="M 30 5 L 50 15 L 50 35 L 30 45 L 10 35 L 10 15 Z" 
+          fill="none" 
+          stroke="#00acc1" 
+          stroke-width="2.5"
+          stroke-linejoin="miter"/>
+    
+    <!-- Inner technical lines -->
+    <line x1="30" y1="5" x2="30" y2="45" stroke="#00acc1" stroke-width="1.5"/>
+    <line x1="10" y1="15" x2="50" y2="35" stroke="#00acc1" stroke-width="1.5"/>
+    <line x1="10" y1="35" x2="50" y2="15" stroke="#00acc1" stroke-width="1.5"/>
+    
+    <!-- Center point -->
+    <circle cx="30" cy="25" r="3" fill="#00acc1"/>
+    
+    <!-- Corner nodes -->
+    <circle cx="30" cy="5" r="2" fill="#00acc1"/>
+    <circle cx="50" cy="15" r="2" fill="#00acc1"/>
+    <circle cx="50" cy="35" r="2" fill="#00acc1"/>
+    <circle cx="30" cy="45" r="2" fill="#00acc1"/>
+    <circle cx="10" cy="35" r="2" fill="#00acc1"/>
+    <circle cx="10" cy="15" r="2" fill="#00acc1"/>
+  </g>
+  
+  <!-- Text: Codehaks -->
+  <text x="90" y="55" 
+        font-family="'Inter', 'Segoe UI', Arial, sans-serif" 
+        font-size="36" 
+        font-weight="700" 
+        fill="#e0e0e0">
+    Codehaks
+  </text>
+  
+  <!-- Tagline -->
+  <text x="90" y="75" 
+        font-family="'Inter', 'Segoe UI', Arial, sans-serif" 
+        font-size="12" 
+        font-weight="400" 
+        fill="#a0a0a0">
+    Engineering-Driven CAD Solutions
+  </text>
+</svg>
