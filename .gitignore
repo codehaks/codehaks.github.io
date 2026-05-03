@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /src/MyBlog.Web/myblog.db-shm
 /src/MyBlog.Web/myblog.db-wal
+/.vs/slnx.sqlite
